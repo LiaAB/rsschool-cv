@@ -9,14 +9,20 @@
 * Discord: LiaAB#9507
 
 ## Summary
-If I can introduce myself in 3 words, they would be: optimism, creativity and passion. I love to learn new things and be on the move. 
+If I can introduce myself in 3 words, they would be: 
+- Optimism
+- Creativity
+- Passion. 
+I love to learn new things and be on the move. 
 
 ## Skills
 Web-development: HTML5, CSS3, JS (Stage 0)
 Version control: GIT, Github
 Grafhics: Figma
 
-## Code
+## Projects
+[Curriculum Vitae (CV)](https://LiaAB.github.io/rsschool-cv/cv)
+
 
 ## Experience
 
