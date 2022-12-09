@@ -25,5 +25,5 @@ GDUFS (Guangdong University of Foreign Studies)
 Guangzhou, China
 2013-2018
 
-## English level\
+## English level
 B2 (Upper-Intermediate)
