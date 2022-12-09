@@ -11,7 +11,7 @@
 If I can introduce myself in 3 words, they would be: 
 - Optimism
 - Creativity
-- Passion\ 
+- Passion 
 I love to learn new things and be on the move. 
 
 ## Skills
