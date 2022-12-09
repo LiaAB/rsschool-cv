@@ -1,5 +1,6 @@
 # Aliya Abdelmaova
-![3852b691-9949-4045-9f95-8def6a0f675d](https://user-images.githubusercontent.com/116559926/206748312-e91e7b00-1041-4997-b80a-65846e06b13d.JPG)
+![LiaA](https://user-images.githubusercontent.com/116559926/206748832-f872c5fd-b6a8-4fa5-9fac-c05f7e0ad872.JPG)
+<img src="LiaA.JPG" height="52,21" width="34,93"/>
 
 ## Contacts
 * **Email:** lia.ab@outlook.com
