@@ -1,5 +1,6 @@
 # Aliya Abdelmaova
-![] (file:///Users/LiaAB/Downloads/3852b691-9949-4045-9f95-8def6a0f675d.JPG)
+![] 
+(file:///Users/LiaAB/Downloads/3852b691-9949-4045-9f95-8def6a0f675d.JPG)
 
 ## Contacts
 * Email: lia.ab@outlook.com
