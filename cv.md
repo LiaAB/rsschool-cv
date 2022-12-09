@@ -1,5 +1,5 @@
 # Aliya Abdelmaova
-![3852b691-9949-4045-9f95-8def6a0f675d](https://user-images.githubusercontent.com/116559926/206744544-b245b86b-9185-4481-927b-d69c2cb41ce0.JPG)
+![3852b691-9949-4045-9f95-8def6a0f675d](https://user-images.githubusercontent.com/116559926/206747782-401cc761-a9d4-45ec-9a96-ca14159effe6.JPG)
 
 
 ## Contacts
