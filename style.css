@@ -1,1 +1,124 @@
+body {
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
 
+.nav-list {
+    display: flex;
+    justify-content: flex-end;
+    list-style: none;
+    color: white;
+    
+}
+
+.nav-link {
+    padding: 0 15px;
+    line-height: 20px;
+    color: white;
+    text-decoration: none;
+  }
+
+  .nav-link:hover {
+    color: #133365;
+  }
+
+.header {
+     background-image: url(https://i.pinimg.com/originals/d0/e2/4c/d0e24c02665d7b3e8a6a2128ad93ae79.jpg);
+     background-size: cover;
+     background-attachment: fixed;
+     padding-top: 10px;
+     padding-bottom: 10px;
+     padding-right: 20px;
+     text-align: right;  
+}
+
+
+.mypic {
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+}
+
+.pic-name {
+    padding-left: 80px;
+    padding-top: 20px;
+}
+
+h1 {
+    font-family: Calibri, sans-serif;
+    padding-right: 300px;
+    padding-top: 70px;
+    float: right;
+    color: #5984c9;
+    word-spacing: 20px;
+    letter-spacing: 5px;
+}
+
+h2 {
+    color: #5380c9; 
+}
+
+
+.role {
+    font-size: 20px;
+    padding-left: 80px;
+}
+
+.contactlist {
+    list-style: none;
+}
+
+.main {
+    padding-left: 10px;
+    color: #133365;
+}
+
+
+.mail {
+    width: 18px;
+    float: left;
+}
+
+.phone {
+    width: 18px;
+    float: left
+}
+
+.git {
+    width: 18px;
+    float: left;
+}
+
+.dis {
+    width: 18px;
+    float: left;
+}
+
+.footer {
+     background-image: url(https://i.pinimg.com/originals/d0/e2/4c/d0e24c02665d7b3e8a6a2128ad93ae79.jpg);
+     background-size: cover;
+     background-attachment: fixed;
+     padding-bottom: 10px;
+     padding-right: 10px;
+     text-align: center;
+     word-spacing: 250px;
+}
+
+.footerpar {
+    position: relative;
+    top: 10px;
+    color: #5984c9;
+}
+
+.gitlink {
+    color: #284677;
+    text-decoration: none;
+}
+
+.gitlink:hover {
+    color:#133365;
+}
+
+.rslogo {
+    width: 60px;
+}
