@@ -94,6 +94,15 @@ h2 {
     float: left;
 }
 
+.cvlink {
+    text-decoration: none;
+    color: #133365;
+}
+
+.cvlink:hover {
+    color: #5380c9;
+}
+
 .footer {
      background-image: url(https://i.pinimg.com/originals/d0/e2/4c/d0e24c02665d7b3e8a6a2128ad93ae79.jpg);
      background-size: cover;
