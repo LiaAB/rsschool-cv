@@ -70,12 +70,11 @@
 
     <h2 id="code">Code</h2>
     <hr>
-    <pre><code> const arrowScroll = document.querySelector('.arrow-top')
+    <pre><code>const arrowScroll = document.querySelector('.arrow-top')
         window.onscroll = () => {
-           if (window.scrollY > 100) arrowScroll.classList.remove('arrow-top_hide')
-           if (window.scrollY < 100) arrowScroll.classList.add('arrow-top_hide')
+        if (window.scrollY >100) arrowScroll.classList.remove('arrow-top_hide')
+        if (window.scrollY <100) arrowScroll.classList.add('arrow-top_hide')
         }
-
     </code></pre>
 
     <h2 id="courses">Courses</h2>
