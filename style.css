@@ -3,6 +3,11 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+  }
+
 .nav-list {
     display: flex;
     justify-content: flex-end;
@@ -26,7 +31,7 @@ body {
      background-image: url(https://i.pinimg.com/originals/d0/e2/4c/d0e24c02665d7b3e8a6a2128ad93ae79.jpg);
      background-size: cover;
      background-attachment: fixed;
-     padding-top: 10px;
+     padding-top: 30px;
      padding-bottom: 10px;
      padding-right: 20px;
      text-align: right;  
